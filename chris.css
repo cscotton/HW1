@@ -27,11 +27,16 @@ h2.title {
 	
 h1.resume {
 	font-style: normal;
-	font-size: 18pt;
+	font-size: 32pt;
 	font-variant: normal;
 	font-weight: 300;
 	text-align: center;
 		}
+h2.resume {
+	font-style:normal;
+	font-variant:small-caps;
+	font-weight: bold;
+	text-align: center; }
 
 
 ul { margin:40px; padding:0; list-style:none; }
@@ -45,7 +50,7 @@ a:hover, a:active {text-decoration:none; color: #F5F5F5; }
 
 #header { background:#00008B; padding:5px 10px; }
 
-#nav { background:#00008B; padding:5px 10px; text-align:center; }
+#nav { background:#00008B; padding:0px; text-align:center; }
 
 #nav li  { display: inline; list-style-type: none; padding-right: 20px; font-size: 15pt; font-weight:normal; font-variant:normal;}
 
