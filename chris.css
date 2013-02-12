@@ -1,0 +1,72 @@
+body {
+	background: teal; 
+	color: #FFE4B5; 
+	font-family: Comic Sans MS, Verdana, Helvetica, sans-serif; 
+	font-size: 14pt; 
+	margin-left: 10%; 
+	margin-right: 10%; }
+		
+		
+h1.title {
+	font-style: italic;
+	font-size: 32pt;
+	font-variant: normal;
+	font-weight: 300;
+	text-align: center;
+	margin-top: 15px;
+	margin-bottom: 0px; }
+		
+h2.title {
+	font-style: normal;
+	font-size: 24pt;
+	font-variant: normal;
+	font-weight: 300;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 25px; }
+
+
+ul { margin:40px; padding:0; list-style:none; }
+li  { margin:20px 20px 20px 20px; padding:0; }
+
+a  {text-decoration:none; }
+a:link, a:visited { color:#FFE4B5; font-weight: bold; }
+a:hover, a:active {text-decoration:none; color: #F5F5F5; }
+
+#Top {width:900px; margin:0 auto; background:#008080; border: solid 1px white; }
+
+#header { background:#00008B; padding:5px 10px; }
+
+#nav { background:#00008B; padding:5px 10px; text-align:center; }
+
+#nav li  { display: inline; list-style-type: none; padding-right: 20px; font-size: 15pt; font-weight:normal; font-variant:normal;}
+
+#about { position: relative; background: #000080; border: solid 1px white; float: right; padding-top:0px; padding-left:10px; padding-right:10px; padding-bottom:20px; margin-bottom:20px; width:481px; height: 1000px; }
+
+p { text-decoration:none; color:#FFE4B5; }
+
+#photos { background: #000080; padding:75px 10px; border: 1px solid white }
+
+image {border:solid 1px white;}
+
+#sidebar { border: solid 1px white; background: navy; float:left; width:375px; padding:10px; height:1000px; }
+
+#footer {background:teal; clear:both; text-align: center; font-size: 14pt; padding-top: 5px;}
+
+#sites {border: solid 1px white; background:navy; text-align: center; font-size: 14pt; }
+
+#sitestitle {background: navy; text-align: center; padding: 5px 10px; }
+
+.pictures {
+	border: solid 1px white;
+	background-color: 00008B;
+	width:350px;
+	padding: 0;
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	text-align: center;	 }
+	
+
