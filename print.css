@@ -1,0 +1,12 @@
+body.resume {
+	color: black;
+	font-family: Verdana;
+	font-size: 12pt;
+	background-color: white;
+	text-align: center; }
+
+#nav {display: none;}
+
+a {text-decoration:none; }
+a:link, a:visited { color:black; font-weight: bold; }
+a:hover, a:active {text-decoration:none; color: black; }
