@@ -24,6 +24,14 @@ h2.title {
 	text-align: center;
 	margin-top: 30px;
 	margin-bottom: 25px; }
+	
+h1.resume {
+	font-style: normal;
+	font-size: 18pt;
+	font-variant: normal;
+	font-weight: 300;
+	text-align: center;
+		}
 
 
 ul { margin:40px; padding:0; list-style:none; }
@@ -45,7 +53,7 @@ a:hover, a:active {text-decoration:none; color: #F5F5F5; }
 
 p { text-decoration:none; color:#FFE4B5; }
 
-#photos { background: #000080; padding:75px 10px; border: 1px solid white }
+#photos { background: #000080; padding:75px 0px; border: 1px solid white }
 
 image {border:solid 1px white;}
 
@@ -57,9 +65,17 @@ image {border:solid 1px white;}
 
 #sitestitle {background: navy; text-align: center; padding: 5px 10px; }
 
+body.resume {
+	color: black;
+	font-family: Verdana;
+	font-size:12pt;
+	background-color: white;
+	text-align: center; }
+	
+
 .pictures {
 	border: solid 1px white;
-	background-color: 00008B;
+	background-color: navy;
 	width:350px;
 	padding: 0;
 	position: relative;
